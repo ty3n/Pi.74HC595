@@ -1,5 +1,5 @@
 # Pi GPIO control 
-   ![](https://github.com/ty3n/Pi.74HC595/blob/main/img/1.jpg?raw=true)![](http://172.25.102.61:3000/Nick/Raspberry-pi.GPIO.74HC595/raw/branch/master/img/2.png/)
+   ![](https://github.com/ty3n/Pi.74HC595/blob/main/img/1.jpg?raw=true)![](https://github.com/ty3n/Pi.74HC595/blob/main/img/2.png?raw=true)
 > As above pi pin, 5,6,13,19,26,12,16,20,21 can control LED_EN, LED_DAT, LED_CLK to implement LED control. 1 pi for 3 station is available. 
 
 ### 74HC595 
